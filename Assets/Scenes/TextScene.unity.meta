@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ecae1c9d75aec2246bcbfe034f291bc1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332078
+  packageName: BoldPixels
+  packageVersion: 1.5.0
+  assetPath: Assets/Scenes/TextScene.unity
+  uploadId: 785910
